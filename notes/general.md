@@ -11,3 +11,6 @@ The `GWT SDK` provides a set of core `Java APIs` and `Widgets` (equivalent to mo
 
 ### Debug
 Thanks to the `GWT developer plugin`, there’s no compiling of code to `JavaScript` to view it in the browser. You can use the same edit-refresh-view cycle you’re used to with `JavaScript`, while at the same time inspect variables, set breakpoints, and utilize all the other debugger tools available to you with `Java`. And because `GWT’s` development mode is now in the browser itself, you can use tools like Firebug and Inspector as you code in Java.
+
+### Create a new app
+You can follow the isntructions provided in the [official docs](http://www.gwtproject.org/gettingstarted.html).
